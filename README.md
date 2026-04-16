@@ -5,6 +5,8 @@ Modelling, trajectory planning, and closed-loop control of a 3-DOF RRR
 serial manipulator performing a pick and place task. Implemented in 
 MATLAB using the Robotics Toolbox.
 
+Achieved a grade of 88% on this coursework submission.
+
 ## Problem Overview
 
 A 3-DOF revolute manipulator is tasked with moving its gripper from a 
